@@ -1,0 +1,5 @@
+name: Internal-ami-action_workflow-test
+runtime: python3.9
+repo-org: helpshift-solutions
+package-type: Zip
+repo-type: --private
